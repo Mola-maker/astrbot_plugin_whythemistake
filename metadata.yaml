@@ -1,9 +1,9 @@
 name: astrbot_plugin_whythemistake
 display_name: 轮椅日志debug
 desc: 后台静默监听终端日志，检测到 WARNING / ERROR / CRITICAL 时自动提交 LLM 分析，将问题原因与解决方案（中文，≤50字）打印到终端。 # 插件简短描述
-version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: molamaker # 作者
-repo: https://github.com/Mola-maker/astrbot_plugin_whythemistake# 插件的仓库地址
+version: v1.0.0 
+author: molamaker 
+repo: https://github.com/Mola-maker/astrbot_plugin_whythemistake
 
 keywords: 
   - astrbot
