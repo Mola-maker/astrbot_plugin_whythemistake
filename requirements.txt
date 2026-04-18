@@ -1,1 +1,1 @@
-loguru>=0.7.0
+# 本插件仅使用 Python 标准库与 AstrBot 内置模块，无额外依赖。
